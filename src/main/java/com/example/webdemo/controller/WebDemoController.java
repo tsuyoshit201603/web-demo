@@ -8,6 +8,6 @@ public class WebDemoController {
 
     @RequestMapping("/")
     public String home() {
-        return "hello world!!";
+        return "hello world!! dev-sample";
     }
 }
